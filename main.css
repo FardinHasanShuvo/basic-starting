@@ -11,8 +11,8 @@ section.logo {
   text-align: center;
   margin: 0em;
   background: #8fd1c8;
-  font-family:New Rocker;
-  border-radius:9px;
+  font-family: New Rocker;
+  border-radius: 9px;
 }
 
 section.logo div {
@@ -25,7 +25,7 @@ section.logo div {
   font-weight: bolder;
   color: black;
   cursor: pointer;
-    border-radius:4px;
+  border-radius: 4px;
 }
 
 section.logo div span {
@@ -34,14 +34,14 @@ section.logo div span {
 }
 
 .hero {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
- Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont,"Segoe UI", Roboto, Oxygen,
+  Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   margin-top: 2.5em;
   font-size: 2em;
   font-weight: bolder;
   text-align: center;
   margin: 0;
-  padding:0;
+  padding: 0;
 }
 
 .hero span {
@@ -52,7 +52,7 @@ section.logo div span {
   font-size: 1.3em;
   text-align: justify;
   margin: 0 20px;
-  padding:0;
+  padding: 0;
 }
 
 .para div.end {
@@ -73,8 +73,8 @@ section.btn a.but {
   font-size: 0.8em;
   display: inline-block;
   border-radius: 0.67em;
-  margin: 0.2em 0.5em; 
-  font-family:New Rocker;
+  margin: 0.2em 0.5em;
+  font-family: New Rocker;
 }
 
 section.btn a.up {
@@ -86,23 +86,27 @@ section.btn a.up {
   display: inline-block;
   border-radius: 0.67em;
   margin: 0.5em 0.5em;
-  font-family:New Rocker;
+  font-family: New Rocker;
 }
 
-section.empty { 
+section.empty {
   background-color: gray;
   padding: 0 0 4em 0;
   margin: 4em 0em 0em 0em;
-  border-radius:9px;
+  border-radius: 9px;
   display: grid;
+  font-family: New Rocker;
 }
-
+ul{
+  color: white;
+}
 section.empty a {
-  text-align: center;
+  text-align: start;
   text-decoration: none;
   color: white;
-  margin: .5em; 
+  margin: .5em;
   cursor: pointer;
-  padding:0;
+  padding: 0;
+  font-family: New Rocker;
 }
 /*# sourceMappingURL=main.css.map */
